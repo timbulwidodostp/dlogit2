@@ -1,5 +1,10 @@
-d 'DEA': Data envelopment analysis
+d 'dlogit2': Marginal effects for logit And probit And multinomial logit Use dlogit2 And dprobit2 And dmlogit2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f dlog_at.ado
+f dlog_dpr.ado
+f dlogit2.ado
+f dlogit2.hlp
+f dmlogit2.ado
+f dmlogit2.hlp
+f dprobit2.ado
+f dprobit2.hlp
