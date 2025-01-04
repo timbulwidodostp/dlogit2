@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p dlogit2 Marginal effects for logit And probit And multinomial logit Use dlogit2 And dprobit2 And dmlogit2 With STATA 18
